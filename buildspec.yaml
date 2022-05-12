@@ -3,7 +3,7 @@ version: 0.2
 phases:
   build:
     commands:
-      - echo test public build cost
+      - echo test public build cost 2
 artifacts:
   files:
     - '**/*'
